@@ -1,0 +1,8 @@
+[package]
+name = "based"
+version = "4.2.0"
+edition = "2021"
+
+[[bin]]
+name = "based"
+path = "skibidi/dop/dop/dop/yes/yes.rs"
